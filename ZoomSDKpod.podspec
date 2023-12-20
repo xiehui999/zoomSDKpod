@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "ZoomSDKpod"
-  spec.version      = "5.11.3.4099"
+  spec.version      = "5.16.10.11693"
   spec.summary      = "Original framework for Zoom.us service"
   spec.homepage     = "https://github.com/zoom/zoom-sdk-ios"
   spec.license      = { :type => "Commercial", :file => "LICENSE.md" }
